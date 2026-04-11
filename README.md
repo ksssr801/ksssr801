@@ -74,8 +74,6 @@ AWS (ECR), GitHub Container Registry (GHCR)
 
 ## GitHub Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ksssr801&layout=compact)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=ksssr801)
 
 ---
